@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @birkaany
 - 👀 I’m trying to be a front-end dev
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JS
 
 
 <!---
