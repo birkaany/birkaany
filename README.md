@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @birkaany
-- 👀 I’m trying to be a better developer everyday
-- 🌱 I’m currently learning ReactJS
 
 
 <!---
